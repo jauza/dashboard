@@ -1,4 +1,4 @@
-package com.js.client.client;
+package com.js.client;
 
 import com.js.client.shared.FieldVerifier;
 import com.google.gwt.core.client.EntryPoint;

@@ -1,4 +1,4 @@
-package com.js.client.client;
+package com.js.client;
 
 import com.google.gwt.user.client.rpc.AsyncCallback;
 

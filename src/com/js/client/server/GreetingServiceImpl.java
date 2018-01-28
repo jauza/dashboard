@@ -1,6 +1,6 @@
 package com.js.client.server;
 
-import com.js.client.client.GreetingService;
+import com.js.client.GreetingService;
 import com.js.client.shared.FieldVerifier;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
